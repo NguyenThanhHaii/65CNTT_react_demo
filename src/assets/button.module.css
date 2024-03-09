@@ -1,0 +1,10 @@
+.other-message{
+    color: blue;
+    font-size: larger;
+}
+
+.myComponent{
+    color: salmon;
+    font-size: 60px;
+    font-weight: bold;
+}
